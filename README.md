@@ -1,16 +1,14 @@
-# contador_de_pessoas
+# Contador de Pessoas Dart + Flutter
 
-A new Flutter project.
+## 📝 Descrição do projeto
+Projeto de um aplicativo de contador de pessoas feito atraves do curso do Daniel Ceofi na Udemy. O app é um simples contador de pessoas na entrada de um restaurante com algumas regras de lotação.
 
-## Getting Started
+## 💻 Features do projeto
+* Fazer contagem de entrada e saida de pessoas de um restaurante
 
-This project is a starting point for a Flutter application.
+## 🚀 Tecnologias e ferramentas utilizadas
+* Dart
+* Flutter
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📊 Status do projeto
+✅ Concluído
